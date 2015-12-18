@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="my_apps">My Nanodegree Apps!</string>
+    <string name="button1_text">Spotify Streamer</string>
+    <string name="button2_text">Scores App</string>
+    <string name="button3_text">Library App</string>
+    <string name="button4_text">Build it bigger</string>
+    <string name="button5_text">xyz reader</string>
+    <string name="button6_text">Capstone: My Own App</string>
+    <string name="msg">This button will launch my</string>
+    <string name="sportify">media streaming app!</string>
+    <string name="football">fooltball app!</string>
+    <string name="lib_app">library app!</string>
+    <string name="reader">xyz reader app!</string>
+    <string name="gradle">gradle based app!</string>
+    <string name="capstone">capstone app!</string>
+</resources>
